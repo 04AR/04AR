@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📅 Isometric commit calendar  
+![isocalendar](https://github.com/04AR/04AR/blob/main/github-metrics.svg)
+
+🈷️ Languages activity  
+![languages](https://github.com/04AR/04AR/blob/main/github-metrics.svg)
