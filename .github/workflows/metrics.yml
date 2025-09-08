@@ -41,8 +41,8 @@ jobs:
           plugin_languages_categories: commit
 
           # anime
-          filename: metrics.plugin.anilist.characters.svg
-          plugin_anilist_user: dummie04
+          # filename: metrics.plugin.anilist.characters.svg
+          plugin_anilist_user: "dummie04"
           plugin_anilist_medias: manga
           plugin_anilist: yes
           plugin_anilist_sections: characters, favorites, reading
