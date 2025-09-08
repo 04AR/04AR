@@ -23,6 +23,10 @@ jobs:
           base: header, activity, community, repositories
           config_timezone: Asia/Kolkata
 
+          # Layout: 2 columns
+          config_display: columns
+          config_order: base.header, isocalendar, languages, anilist
+
           # Commit charts
           plugin_habits: yes
           plugin_habits_facts: yes
@@ -41,7 +45,6 @@ jobs:
           plugin_languages_categories: commit
 
           # anime
-          filename: metrics.plugin.anilist.manga.svg
           plugin_anilist: yes
           plugin_anilist_user: dummie04
           plugin_anilist_medias: anime, manga
