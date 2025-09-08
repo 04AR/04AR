@@ -24,12 +24,7 @@ jobs:
           base: header, activity, repositories
           config_timezone: Asia/Kolkata
           filename: general.svg
-          config_order: base.header, isocalendar, languages, habits, topics
-
-          # Commit charts
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
+          config_order: base.header, isocalendar, languages, topics
 
           # Isometric commit calendar
           plugin_isocalendar: yes
@@ -43,7 +38,6 @@ jobs:
 
           #Stared icons
           plugin_topics: yes
-          plugin_topics_limit: 0
           plugin_topics_mode: icons
           
       - name: media
